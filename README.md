@@ -24,6 +24,6 @@ Just paste it!
 
 ![Screenvideo-3](images/screenvideo-3.gif)
 
-## Contribution
+## Contributing
 
 If you find something, feel free to create PR.
